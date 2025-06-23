@@ -110,7 +110,12 @@ const questions = [
     "correct": 2
   },
   {
-    "question": "The colour red is used on an EFIS screen for:",
+    "question": "The colour red is used on an EFIS screen for:
+      (i) Warnings
+      (ii) Flight envelope and system limits
+      (iii) Cautions, abnormal sources
+      (iv) Scales and associated figures
+",
     "options": [
       "(i) Warnings",
       "(ii) Flight envelope and system limits",
